@@ -1,0 +1,13 @@
+#Core RL
+gymnasium 
+
+#Visual Rendering
+#pygame
+
+#Data + Plotting
+numpy
+matplotlib
+
+#Other
+stable-baslines3[extra]
+torch
