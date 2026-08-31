@@ -1,13 +1,10 @@
-#Core RL
-gymnasium 
+# Core RL + CartPole / classic-control rendering (pygame-ce on Python 3.14)
+gymnasium[classic-control]>=1.3.0
 
-#Visual Rendering
-#pygame
-
-#Data + Plotting
+# Data + Plotting
 numpy
 matplotlib
 
-#Other
-stable-baslines3[extra]
+# Other
+stable-baselines3[extra]
 torch

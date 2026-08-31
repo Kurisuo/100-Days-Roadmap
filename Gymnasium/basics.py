@@ -10,7 +10,7 @@ obs, info = env.reset()
 print(f"Starting Observation: {obs}")
 
 episode_over = False
-reward = 0
+total_reward = 0
 
 while not episode_over:
     
